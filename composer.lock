@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "afb4b39c9d800bdb8c10bf9c5e3f8ad2",
+    "content-hash": "fb77a29189c5235f7090a453b4cc7ab2",
     "packages": [
         {
             "name": "arrilot/laravel-widgets",
@@ -7984,7 +7984,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^7.2.5|^8.0|8.1"
+        "php": "^7.4|^8.0|8.1"
     },
     "platform-dev": [],
     "plugin-api-version": "2.3.0"
