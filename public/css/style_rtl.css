@@ -1,0 +1,13 @@
+.call-to-action .call-to-action-content{
+    direction: rtl;
+}
+.det , .down-content h4 , .down-content span{
+    direction: rtl;
+    text-align: right;
+}
+.branchesinfo , .app{
+    direction: rtl;
+}
+/*.product-heading{
+    padding: 24% 0px 80px 0px;
+}*/
